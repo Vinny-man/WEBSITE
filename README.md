@@ -1,2 +1,2 @@
 # WEBSITE
-A course regarding web design.
+A website design for a web design course.
